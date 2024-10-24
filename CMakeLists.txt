@@ -3,4 +3,4 @@ project(ProjectName)
 
 set(SOME_VAR variable1)
 
-message (STATUS "Repo is empty lol")
+message (DEPRECATION "Repo is empty lol")
