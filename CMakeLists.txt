@@ -3,4 +3,4 @@ project(ProjectName)
 
 set(SOME_VAR variable1)
 
-message (TRACE "Repo is empty lol")
+message (STATUS "Repo is empty lol")
